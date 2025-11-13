@@ -1,4 +1,4 @@
-#include "GBUtils.h"
+#include "GBStringUtils.h"
 
 String* gb::Split(String str, char c, unsigned int& length)
 {
